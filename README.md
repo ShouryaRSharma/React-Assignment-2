@@ -1,10 +1,10 @@
 # Assignment Aims:
-## 1. Create an input field with a change listener which outputs the length of the entered text below it (in this case the card title).
-## 2. Create a new component (=> ValidationComponent) which recieves the text length as a prop.
-## 3. Inside the ValidationComponent, output text too short or too long depending on the text length. (5 was taken in as a minimum length).
-## 4. Create another component (=> CharComponent) and style it as an inline box.
-## 5. Render a list of CharComponents where each CharComponent recieves a different letter of the entered text in the inital input field as a prop.
-## 6. When you click a ChatComponent, it should be removed from the entered text.
+### 1. Create an input field with a change listener which outputs the length of the entered text below it (in this case the card title).
+### 2. Create a new component (=> ValidationComponent) which recieves the text length as a prop.
+### 3. Inside the ValidationComponent, output text too short or too long depending on the text length. (5 was taken in as a minimum length).
+### 4. Create another component (=> CharComponent) and style it as an inline box.
+### 5. Render a list of CharComponents where each CharComponent recieves a different letter of the entered text in the inital input field as a prop.
+### 6. When you click a ChatComponent, it should be removed from the entered text.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
