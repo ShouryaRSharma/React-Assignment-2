@@ -1,0 +1,16 @@
+.Char {
+    display: inline-block;
+    margin-right: 0.1rem;
+    margin-top: 1rem;
+    
+}
+
+.alert {
+    cursor: pointer;
+    border: 1px solid #eee;
+    box-shadow: 0px 4px 4px 2px #eee;
+    transition: 0.2s;
+    &:hover {
+        border: 1px solid black;
+    }
+}
